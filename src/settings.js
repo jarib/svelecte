@@ -16,6 +16,7 @@ const settings = {
   resetOnBlur: true,
   resetOnSelect: true,
   fetchResetOnBlur: true,
+  closeDropDownOnSelect: false,
   // multi
   multiple: false,
   max: 0,
